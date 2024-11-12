@@ -2,26 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#友情链接
+[openlib重庆大学资源共享](https://cqu-openlib.cn/).
+[UC资源共享](https://github.com/horaceyi/CQU-UC-JCI).
+[中科大资源共享](https://ustc-resource.github.io/USTC-Course).
+[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual).
+[CS自学指南](https://csdiy.wiki/).
+[待定]().
+[Gaussian splatting]().
+[time-LLM]().
 
-[Link to another page](./another-page.html).
+#个人联系方式：
+"""
+邮箱：lutaoyu@stu.cqu.edu.cn
+qq：3899613198
+微信：lty1232343450318
+"""
 
-There should be whitespace between paragraphs.
+#
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
 
+<!--下面是markdown教程和示例
+1、黑色文本框
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+2、代码框（在'''后面加编程语言类型）
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -29,95 +40,29 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
+3、标题和正文
+方法1：
+# Header 1
+## Header 2
+### Header 3
+方法2：
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+结果：
+Color(标题)
+Green(正文)
+4、列表和子列表格式
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+5、图片：
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+6、分割线：
+* * *
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+-->
 
-```
-The final element.
-```
