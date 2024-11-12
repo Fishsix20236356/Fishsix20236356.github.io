@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 友情链接
+# Links<br>
 
 [openlib重庆大学资源共享](https://cqu-openlib.cn/).<br>
 
@@ -14,7 +14,7 @@ layout: default
 
 [CS自学指南](https://csdiy.wiki/).<br>
 
-[待定]().<br>
+# Coming
 
 [Gaussian splatting]().<br>
 
