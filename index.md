@@ -2,7 +2,8 @@
 layout: default
 ---
 
-#友情链接
+# 友情链接
+
 [openlib重庆大学资源共享](https://cqu-openlib.cn/).<br>
 
 [UC资源共享](https://github.com/horaceyi/CQU-UC-JCI).<br>
@@ -19,9 +20,9 @@ layout: default
 
 [time-LLM]().<br>
 
-#个人联系方式：
+# Contact me
 ```
-邮箱：lutaoyu@stu.cqu.edu.cn
+邮箱：lutaoyu@stu.cqu.edu.cn <br>
 qq：3899613198
 微信：lty1232343450318
 ```
