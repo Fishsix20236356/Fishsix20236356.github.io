@@ -4,6 +4,7 @@ layout: default
 
 #友情链接
 [openlib重庆大学资源共享](https://cqu-openlib.cn/).
+
 [UC资源共享](https://github.com/horaceyi/CQU-UC-JCI).
 [中科大资源共享](https://ustc-resource.github.io/USTC-Course).
 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual).
