@@ -28,7 +28,7 @@ qq：3899613198
 ```
 
 # Time-LLM
-[大创研究资料](./another-page.html).
+[大创研究资料](./timellm.html).
 
 
 
