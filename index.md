@@ -3,24 +3,30 @@ layout: default
 ---
 
 #友情链接
-[openlib重庆大学资源共享](https://cqu-openlib.cn/).
+[openlib重庆大学资源共享](https://cqu-openlib.cn/).<br>
 
-[UC资源共享](https://github.com/horaceyi/CQU-UC-JCI).
-[中科大资源共享](https://ustc-resource.github.io/USTC-Course).
-[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual).
-[CS自学指南](https://csdiy.wiki/).
-[待定]().
-[Gaussian splatting]().
-[time-LLM]().
+[UC资源共享](https://github.com/horaceyi/CQU-UC-JCI).<br>
+
+[中科大资源共享](https://ustc-resource.github.io/USTC-Course).<br>
+
+[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual).<br>
+
+[CS自学指南](https://csdiy.wiki/).<br>
+
+[待定]().<br>
+
+[Gaussian splatting]().<br>
+
+[time-LLM]().<br>
 
 #个人联系方式：
-"""
+```
 邮箱：lutaoyu@stu.cqu.edu.cn
 qq：3899613198
 微信：lty1232343450318
-"""
+```
 
-#
+
 
 
 
