@@ -16,11 +16,13 @@ description: "看到这行字请笑一下吧"
 
 [CS自学指南](https://csdiy.wiki/).<br>
 
+[paper with code](https://paperswithcode.com/)<br>
+
+
 # Coming
 
 [Gaussian splatting]().<br>
 
-[time-LLM]().<br>
 
 # Contact me
 ```
@@ -32,48 +34,4 @@ qq：3899613198
 # Time-LLM
 [大创研究资料](./timellm.html).
 
-
-
-
-
-
-
-<!--下面是markdown教程和示例
-1、黑色文本框
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-2、代码框（在'''后面加编程语言类型）
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-3、标题和正文
-方法1：
-# Header 1
-## Header 2
-### Header 3
-方法2：
-<dl>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-结果：
-Color(标题)
-Green(正文)
-4、列表和子列表格式
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-5、图片：
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-6、分割线：
-* * *
-
--->
 
