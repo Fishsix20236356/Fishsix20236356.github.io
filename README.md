@@ -3,19 +3,19 @@
 这里是有关网页搭建的说明，哪天忘了怎么搭建来这里看看，记得点code模式。<br>
 [leap-day网页风格源代码](https://github.com/pages-themes/leap-day)
 
-## Basic information of the website: https://fishsix20236356.github.io/
+# Basic information of the website:https://fishsix20236356.github.io/
 
 * 基于Jekyll静态站点生成器
 * 如果要新建网页，在Fishsix20236356.github.io下 新建xxx.md 然后链接格式[链接名字写这里哦]（./xxx.html）
 
-## markdown(Jekyll part,like index.md) help document
+# markdown(Jekyll part,like index.md) help document
 
-1.黑色文本框
+## 1.黑色文本框
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-2.代码框（在'''后面加编程语言类型）
+## 2.代码框（在'''后面加编程语言类型）
 
 ```js
 // Javascript code with syntax highlighting.
@@ -25,9 +25,9 @@ var fun = function lang(l) {
 }
 ```
 
-3.标题和正文
+## 3.标题和正文
 
-方法1：
+### 方法1：
 #Header 1
 
 ##Header 2
@@ -36,7 +36,7 @@ var fun = function lang(l) {
 
 #和head用空格隔开
 
-方法2：
+### 方法2：
 <dl>
 <dt>Color</dt>
 <dd>Green</dd>
@@ -45,7 +45,7 @@ var fun = function lang(l) {
 Color(标题)
 Green(正文)
 
-4.列表和子列表格式
+## 4.列表和子列表格式
 
 - level 1 item
   - level 2 item
@@ -64,13 +64,13 @@ Green(正文)
 2. 放入新鲜蔬菜
 3. 关闭冰箱
 
-5.图片：
+## 5.图片：
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-6.分割线：
+## 6.分割线：
 * * *
 
-7.注释：
+## 7.注释：
 方法1：> 这是一段引用，它会被渲染，但通常会被样式化以区别于正文。
 方法2：(已经被聪明的我注释掉啦哈哈哈)<!-- 这是一段注释，它不会在渲染的HTML中显示 -->
 
