@@ -3,6 +3,7 @@ layout: default
 title: "陆韬宇的个人网页"
 description: "看到这行字请笑一下吧"
 ---
+# [个人简历（持续更新中）](./lutaoyuCV.html)
 
 # Links<br>
 
