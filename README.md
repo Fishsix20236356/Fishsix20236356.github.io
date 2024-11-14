@@ -1,11 +1,12 @@
 # Introduction
 
-这里是有关网页搭建的说明，哪天忘了怎么搭建来这里看看，记得点code模式。
+这里是有关网页搭建的说明，哪天忘了怎么搭建来这里看看，记得点code模式。<br>
 [leap-day网页风格源代码](https://github.com/pages-themes/leap-day)
 
 ## Basic information of the website: https://fishsix20236356.github.io/
 
 * 基于Jekyll静态站点生成器
+* 如果要新建网页，在Fishsix20236356.github.io下 新建xxx.md 然后链接格式[链接名字写这里哦]（./xxx.html）
 
 ## markdown(Jekyll part,like index.md) help document
 
