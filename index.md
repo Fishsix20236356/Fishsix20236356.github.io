@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "陆韬宇的个人网页"
+description: "看到这行字请笑一下吧"
 ---
 
 # Links<br>
