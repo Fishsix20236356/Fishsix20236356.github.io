@@ -4,20 +4,20 @@ title: "大创：基于多尺度重编程的时序数据语义理解与预测方
 description: "真的非常非常幸运，一直想做时间序列和金融欺诈、预防，没想到做的梦照进了现实哈哈哈哈哈，太阳公公加油"
 ---
 
-# 放一些资料：
+# [返回主页面](https://fishsix20236356.github.io/)
+
+## 放一些资料：
 
 [CVPR](https://github.com/amusi/CVPR2024-Papers-with-Code)<br>
 [LLM应用于时间序列的论文，代码，数据集，综述库](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)<br>
 [LLM and time series 小型repo](https://github.com/liaoyuhua/LLM4TS/blob/main/README_zh.md)<br>
 
-# 放一些自己的研究：
+## 放一些自己的研究：[github库的链接](https://github.com/Fishsix20236356/Fishsix20236356.github.io/tree/master/document/time-LLM)<br>
 
-## 文件名称：
+### 文件名称：
 
 * time-LLM论文（中英文）,综述<br>
 * 答辩Q&A<br>
 * 答辩PPT，立项申报书<br>
 * 只有自己看的懂的项目解析<br>
 * 周报<br>
-[github库的链接](https://github.com/Fishsix20236356/Fishsix20236356.github.io/tree/master/document/time-LLM)<br>
-
