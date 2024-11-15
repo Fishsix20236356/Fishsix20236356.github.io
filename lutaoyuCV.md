@@ -1,6 +1,5 @@
 # [返回主页面](https://fishsix20236356.github.io/)
 
-![陆韬宇的照片](./document/picture/photo.jpg)<br>
 # 陆韬宇
 
 **年龄**：19岁  
