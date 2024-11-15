@@ -19,11 +19,10 @@ description: "看到这行字请笑一下吧"
 
 [paper with code](https://paperswithcode.com/)<br>
 
-
 # Coming
 
-[Gaussian splatting]().<br>
-
+[陆韬宇的个人博客]
+[陆韬宇的人生感悟]
 
 # Contact me
 ```
@@ -33,6 +32,13 @@ qq：3899613198
 ```
 
 # Time-LLM
-[大创研究资料](./timellm.html).
+[大创研究资料](./timellm.html).<br>
+
+# Gaussian splatting
+[三维重建实验室](./gaussian.html).<br>
+
+# 日志
+[简单记录一下吧](./log)
+
 
 
