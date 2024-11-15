@@ -4,8 +4,6 @@ title: "大创：基于多尺度重编程的时序数据语义理解与预测方
 description: "真的非常非常幸运，一直想做时间序列和金融欺诈、预防，没想到做的梦照进了现实哈哈哈哈哈，太阳公公加油"
 ---
 
-# [返回主页面](https://fishsix20236356.github.io/)
-
 ## 放一些资料：
 
 [CVPR](https://github.com/amusi/CVPR2024-Papers-with-Code)<br>
@@ -21,3 +19,8 @@ description: "真的非常非常幸运，一直想做时间序列和金融欺诈
 * 答辩PPT，立项申报书<br>
 * 只有自己看的懂的项目解析<br>
 * 周报<br>
+
+
+
+
+# [返回主页面](https://fishsix20236356.github.io/)
