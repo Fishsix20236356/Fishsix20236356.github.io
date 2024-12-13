@@ -3,7 +3,13 @@ layout: default
 title: "陆韬宇的个人网页"
 description: "看到这行字请笑一下吧"
 ---
+# [陆韬宇的人生感悟](./log.html)
+
+***
+
 # [个人简历（持续更新中）](./lutaoyuCV.html)
+
+***
 
 # Links<br>
 
@@ -19,10 +25,14 @@ description: "看到这行字请笑一下吧"
 
 [paper with code](https://paperswithcode.com/)<br>
 
+***
+
 # Coming
 
 [陆韬宇的个人博客]
-[陆韬宇的人生感悟](./log.html)
+[陆韬宇的旅行经历（走过国内外很多很多的地方，希望记录下来）]
+
+***
 
 # Contact me
 ```
@@ -37,8 +47,7 @@ qq：3899613198
 # Gaussian splatting
 [三维重建实验室](./gaussian.html).<br>
 
-# 日志
-[简单记录一下吧](./log.html)
+
 
 
 
