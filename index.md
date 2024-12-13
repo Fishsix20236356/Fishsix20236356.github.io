@@ -22,7 +22,7 @@ description: "看到这行字请笑一下吧"
 # Coming
 
 [陆韬宇的个人博客]
-[陆韬宇的人生感悟]
+[陆韬宇的人生感悟](./log.html)
 
 # Contact me
 ```
