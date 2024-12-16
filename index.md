@@ -3,7 +3,7 @@ layout: default
 title: "陆韬宇的个人网页"
 description: "看到这行字请笑一下吧"
 ---
-# [陆韬宇的人生感悟](./log.html)
+
 
 # [个人简历（持续更新中）](./lutaoyuCV.html)
 
@@ -33,11 +33,6 @@ qq：3899613198
 微信：lty1232343450318
 ```
 
-# Time-LLM
-[大创研究资料](./timellm.html).<br>
-
-# Gaussian splatting
-[三维重建实验室](./gaussian.html).<br>
 
 
 
