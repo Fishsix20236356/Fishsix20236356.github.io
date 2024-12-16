@@ -5,11 +5,7 @@ description: "看到这行字请笑一下吧"
 ---
 # [陆韬宇的人生感悟](./log.html)
 
-***
-
 # [个人简历（持续更新中）](./lutaoyuCV.html)
-
-***
 
 # Links<br>
 
@@ -25,14 +21,10 @@ description: "看到这行字请笑一下吧"
 
 [paper with code](https://paperswithcode.com/)<br>
 
-***
-
 # Coming
 
-[陆韬宇的个人博客]
+[陆韬宇的个人博客（创新创业，科研，造机器人，实习...有很多坎坷，也成长很多，先写给自己看，有机会再开放出来）]
 [陆韬宇的旅行经历（走过国内外很多很多的地方，希望记录下来）]
-
-***
 
 # Contact me
 ```
