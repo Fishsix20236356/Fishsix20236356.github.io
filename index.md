@@ -4,7 +4,7 @@ title: "陆韬宇的个人网页"
 description: "看到这行字请笑一下吧"
 ---
 
-## [日志](./log.html)
+
 ## [三维重建](./gaussian.html)
 ## [大创](./timellm.html)
 ## [个人简历（持续更新中）](./lutaoyuCV.html)
