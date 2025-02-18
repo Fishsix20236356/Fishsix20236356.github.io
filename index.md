@@ -4,6 +4,7 @@ title: "陆韬宇的个人网页"
 description: "看到这行字请笑一下吧"
 ---
 
+## [陆韬宇的个人树洞（私密）](./log.html)
 
 ## [三维重建](./gaussian.html)
 ## [大创](./timellm.html)
