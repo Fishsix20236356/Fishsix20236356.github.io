@@ -4,14 +4,12 @@ title: "陆韬宇的个人网页"
 description: "看到这行字请笑一下吧"
 ---
 
-## [陆韬宇的个人树洞（私密）](./log.html)
 
-## [三维重建](./gaussian.html)
-## [大创](./timellm.html)
-## [个人简历（持续更新中）](./lutaoyuCV.html)
-
-## [2024conclusion](./2024conclusion.pdf)
-
+### [三维重建](./gaussian.html)
+### [大创](./timellm.html)
+### [个人简历（持续更新中）](./lutaoyuCV.html)
+### [有趣的想法](./think.html)
+ 
 ## Links<br>
 
 [openlib重庆大学资源共享](https://cqu-openlib.cn/).<br>
@@ -30,6 +28,8 @@ description: "看到这行字请笑一下吧"
 
 [陆韬宇的个人博客（创新创业，科研，造机器人，实习...有很多坎坷，也成长很多，先写给自己看，有机会再开放出来）]
 [陆韬宇的旅行经历（走过国内外很多很多的地方，希望记录下来）]
+[2024conclusion](./2024conclusion.pdf)
+[陆韬宇的个人树洞（私密）](./log.html)
 
 # Contact me
 ```
