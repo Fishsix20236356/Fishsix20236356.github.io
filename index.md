@@ -30,9 +30,9 @@ description: "看到这行字请笑一下吧"
 
 [陆韬宇的旅行经历（走过国内外很多很多的地方，希望记录下来）]
 
-[2024conclusion](./2024conclusion.pdf)
 
-[陆韬宇的个人树洞（私密）](./log.html)
+<!-- [2024conclusion](./2024conclusion.pdf)
+[陆韬宇的个人树洞（私密）](./log.html)-->
 
 # Contact me
 ```
