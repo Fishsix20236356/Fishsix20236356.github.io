@@ -9,7 +9,13 @@ description: "看到这行字请笑一下吧"
 ### [大创](./timellm.html)
 ### [个人简历（截止于2024年10月 持续更新中）](./lutaoyuCV.html)
 ### [有趣的想法](./think.html)
- 
+### AMD科研助手
+- [AMD科研助手说明书](https://github.com/SamuelSchmidgall/AgentLaboratory/blob/main/readme/README-chinese.md)     
+- [科研助手（点击使用）](https://www.codewithgpu.com/i/SamuelSchmidgall/AgentLaboratory/Agent_Laboratory)
+  - 成功复现AMD的自动科研智能体，从此成为天选研究生，无论你是外语、计算机、电气、金融，还是化学（这个推荐调用claude系列的api哈）历史。
+  - 科研报告，代码，文献综述一站式服务，从此写论文不再忧心忡忡~
+  - 但是还是得靠自己哈，它的潜力会随着新的大模型出现，而被挖掘。
+
 ## Links<br>
 
 [openlib重庆大学资源共享](https://cqu-openlib.cn/).<br>
@@ -30,9 +36,9 @@ description: "看到这行字请笑一下吧"
 
 [陆韬宇的旅行经历（走过国内外很多很多的地方，希望记录下来）]
 
-[2024年度总结]
+[2024年度总结（2024年真的经历了很多，文笔很激愤，道理很真切）]
 
-[陆韬宇的个人树洞]
+[陆韬宇的个人树洞（很美好的一个日记本，但是有些小秘密不好公开）]
 
 
 <!-- [2024conclusion](./2024conclusion.pdf)
