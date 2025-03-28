@@ -10,7 +10,7 @@ description: "看到这行字请笑一下吧"
 ### [个人简历（截止于2024年10月 持续更新中）](./lutaoyuCV.html)
 ### [有趣的想法](./think.html)
 ### [心理学](./psychological.html)
-### AMD科研助手智能体(./agentlab.html)
+### [AMD科研助手智能体](./agentlab.html)
 
 
 
